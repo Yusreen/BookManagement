@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\Yusre\source\repos\Library\Main.cpp(142,27): warning C4584: 'Transaction': base-class 'Library' is already a base-class of 'Book'
+C:\Users\Yusre\source\repos\Library\Main.cpp(14): message : see declaration of 'Library'
+C:\Users\Yusre\source\repos\Library\Main.cpp(38): message : see declaration of 'Book'
+C:\Users\Yusre\source\repos\Library\Main.cpp(162,12): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Library.vcxproj -> C:\Users\Yusre\source\repos\Library\Debug\Library.exe
